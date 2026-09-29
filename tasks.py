@@ -1,5 +1,6 @@
-def add_task(): pass 
-def list_tasks(): pass 
-def remove_task(): pass 
-def set_priority(): pass 
-def set_deadline(): pass 
+def add_task(): pass
+def list_tasks(): pass
+def remove_task(): pass
+def set_priority(): pass
+def set_deadline(): pass
+def set_due_date(): pass
